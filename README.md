@@ -3,7 +3,7 @@
  - Mam na imię  Madzia
  - Studiuję Informatykę i Systemy Inteligentne
  - Chcę się nauczyć dobrze programować
-## Moja strona 
+#### Moja strona 
  - [kliknij tutaj](https://m-janowska.github.io/)
 
 <!--
