@@ -3,7 +3,8 @@
  - Mam na imię  Madzia
  - Studiuję Informatykę i Systemy Inteligentne
  - Chcę się nauczyć dobrze programować
-
+## Moja strona 
+ - [kliknij tutaj](https://m-janowska.github.io/)
 
 <!--
 **M-janowska/M-janowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
