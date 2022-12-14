@@ -5,6 +5,9 @@
  - Chcę się nauczyć dobrze programować
 #### Moja strona 
  - [kliknij tutaj](https://m-janowska.github.io/)
+#### Fork
+ - [link do repozytorium](https://github.com/M-janowska/DeepFashion2)
+ - [link do strony artykułu](https://paperswithcode.com/paper/deepfashion2-a-versatile-benchmark-for)
 
 <!--
 **M-janowska/M-janowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
